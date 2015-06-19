@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-01 BZR unknown)-product   date = 6/14/2015 5:27:21 PM
+
+BeginCmp
+TimeStamp = /55790ADC;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55790B60;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55790A99;
+Reference = L1;
+ValeurCmp = INDUCTOR;
+IdModule  = Inductors:SELF-WE-TPC_M;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579087E;
+Reference = P1;
+ValeurCmp = Input;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579090F;
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55790BAD;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55790BCA;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557907BE;
+Reference = U1;
+ValeurCmp = MCP16251;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-6;
+EndCmp
+
+EndListe

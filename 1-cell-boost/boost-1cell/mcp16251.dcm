@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP16251
+D DC-DC boost 1 cell 100ma
+K POWER
+$ENDCMP
+#
+#End Doc Library
