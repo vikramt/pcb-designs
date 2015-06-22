@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-25 BZR unknown)-product   date = 6/21/2015 11:49:09 PM
+
+BeginCmp
+TimeStamp = /5587A470;
+Reference = 10k1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55878601;
+Reference = 10k2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55825859;
+Reference = C1;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5582596A;
+Reference = C2;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55825D8B;
+Reference = C3;
+ValeurCmp = C_Small;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5587C558;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55825724;
+Reference = IC1;
+ValeurCmp = ATMEGA328-P;
+IdModule  = Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5586F8A8;
+Reference = P1;
+ValeurCmp = Vin;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55827F76;
+Reference = P2;
+ValeurCmp = ISP;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /558259D1;
+Reference = P3;
+ValeurCmp = sonar;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55879B96;
+Reference = P4;
+ValeurCmp = I2C;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5587D8B8;
+Reference = P5;
+ValeurCmp = GPIO;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /55825AE5;
+Reference = P6;
+ValeurCmp = ICSP;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5587A229;
+Reference = Q1;
+ValeurCmp = 3401P;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5587837D;
+Reference = Q2;
+ValeurCmp = 3401P;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /558257D2;
+Reference = U1;
+ValeurCmp = AP1117D33;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23_Handsoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55825CF3;
+Reference = U2;
+ValeurCmp = RFM69;
+IdModule  = RFM69BreakoutBoardFootPrints:RFM69HW;
+EndCmp
+
+EndListe
