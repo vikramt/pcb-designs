@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by Cvpcb (after 2015-may-25 BZR unknown)-product   date = 6/23/2015 8:21:19 PM
+
+BeginCmp
+TimeStamp = /5589EF5A;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5589EF87;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5589F6D9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5589F4B6;
+Reference = U1;
+ValeurCmp = ProMicro;
+IdModule  = pro-micro:ARDUINO_PRO_MINI;
+EndCmp
+
+BeginCmp
+TimeStamp = /5589EF2A;
+Reference = U2;
+ValeurCmp = AP1117;
+IdModule  = SOT223:SOT223;
+EndCmp
+
+BeginCmp
+TimeStamp = /5589EEAB;
+Reference = U3;
+ValeurCmp = RFM69;
+IdModule  = RFM69BreakoutBoardFootPrints:RFM69HW;
+EndCmp
+
+EndListe

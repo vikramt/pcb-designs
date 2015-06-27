@@ -1,4 +1,4 @@
-update=6/19/2015 1:16:30 AM
+update=6/23/2015 7:41:06 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=Arduino-pro-micro
+LibName31=rfm69

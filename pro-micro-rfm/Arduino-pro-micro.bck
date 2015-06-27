@@ -1,9 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP ProMicro
-D USB3300 Hi-Speed USB Host, Device or OTG PHY with ULPI Interface
-K USB OTG Hi-Speed PHY ULPI Interface
-F http://microchip.com/downloads/en/DeviceDoc/00001783A.pdf
+D Pro Micro
+K Arduino Pro Micro
 $ENDCMP
 #
 #End Doc Library

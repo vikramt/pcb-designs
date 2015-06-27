@@ -1,3 +1,6 @@
 (fp_lib_table
   (lib (name SparkFun-Boards)(type Eagle)(uri C:\Users\taracvi\Documents\Eagle-lbr\SparkFun-Eagle-Libraries-master\SparkFun-Boards.lbr)(options "")(descr ""))
+  (lib (name RFM69BreakoutBoardFootPrints)(type Legacy)(uri "$(KIPRJMOD)\\RFM69BreakoutBoardFootPrints.mod")(options "")(descr ""))
+  (lib (name pro-micro)(type Legacy)(uri "$(KIPRJMOD)\\pro-micro.mod")(options "")(descr ""))
+  (lib (name SOT223)(type Legacy)(uri "$(KIPRJMOD)\\SOT223.mod")(options "")(descr ""))
 )
